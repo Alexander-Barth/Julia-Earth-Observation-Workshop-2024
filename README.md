@@ -2,7 +2,7 @@
 
 # Instructions
 
-* Download and install [julia](https://julialang.org/downloads/) available for the main opertating systems (Linux, Mac OS, Windows ...) 
+* Download and install [julia](https://julialang.org/downloads/) available for major opertating systems (Linux, Mac OS, Windows ...). Other sources of julia like the Linux package manager is untested.  
 * Download and uncompress the [code](https://github.com/Alexander-Barth/Julia-Earth-Observation-Workshop-2024/archive/refs/heads/main.zip) in this repository (or use `git clone https://github.com/Alexander-Barth/Julia-Earth-Observation-Workshop-2024`)
 * Activate and instantiate the environement by running the following Julia commands
 
